@@ -26,7 +26,7 @@ Core Electronics:
 Digital Electronics • VLSI (Learning) • Embedded Basics
 
 🚀 Projects
-🌐 PG Booking Platform – Student accommodation solution
+🌐 Campus Freelancing Platform- learn,earn,grow
 🌦️ Weather App – Real-time API-based application
 🧺 Laundry Service UI – Clean & responsive frontend
 🤖 Pick & Drop Robot (In Progress) – Automation project
