@@ -9,6 +9,10 @@ Electronics & Telecommunication Engineer |Web Development | Developer
 💻 Developer with strong fundamentals in C & Python
 ⚡ Exploring VLSI Design & Core Electronics
 🏆 National Level Technical Business Idea Pitch Winner
+President Of JIST CODING CLUB 
+SECRETARY OF ENTREPRENEURSHIP CELL 
+JOINT SECRETARY OF JIST ELECTRONICS CLUB 
+
 🚀 Focused on solving real problems & building scalable solutions
 🔥 What I’m Working On
 🔬 Learning VLSI Design & Semiconductor Domain
